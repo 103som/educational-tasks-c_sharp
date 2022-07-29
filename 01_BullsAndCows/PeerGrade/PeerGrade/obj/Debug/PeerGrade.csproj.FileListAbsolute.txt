@@ -1,0 +1,21 @@
+C:\PeerGrade\PeerGrade\bin\Debug\PeerGrade.exe.config
+C:\PeerGrade\PeerGrade\bin\Debug\PeerGrade.exe
+C:\PeerGrade\PeerGrade\bin\Debug\PeerGrade.pdb
+C:\PeerGrade\PeerGrade\obj\Debug\PeerGrade.csprojAssemblyReference.cache
+C:\PeerGrade\PeerGrade\obj\Debug\PeerGrade.csproj.CoreCompileInputs.cache
+C:\PeerGrade\PeerGrade\obj\Debug\PeerGrade.exe
+C:\PeerGrade\PeerGrade\obj\Debug\PeerGrade.pdb
+C:\Users\103so\Downloads\238196885946275 (2)\PeerGrade\PeerGrade\bin\Debug\PeerGrade.exe.config
+C:\Users\103so\Downloads\238196885946275 (2)\PeerGrade\PeerGrade\bin\Debug\PeerGrade.exe
+C:\Users\103so\Downloads\238196885946275 (2)\PeerGrade\PeerGrade\bin\Debug\PeerGrade.pdb
+C:\Users\103so\Downloads\238196885946275 (2)\PeerGrade\PeerGrade\obj\Debug\PeerGrade.csprojAssemblyReference.cache
+C:\Users\103so\Downloads\238196885946275 (2)\PeerGrade\PeerGrade\obj\Debug\PeerGrade.csproj.CoreCompileInputs.cache
+C:\Users\103so\Downloads\238196885946275 (2)\PeerGrade\PeerGrade\obj\Debug\PeerGrade.exe
+C:\Users\103so\Downloads\238196885946275 (2)\PeerGrade\PeerGrade\obj\Debug\PeerGrade.pdb
+C:\Users\103so\OneDrive\Рабочий стол\PeerGrade\PeerGrade\bin\Debug\PeerGrade.exe.config
+C:\Users\103so\OneDrive\Рабочий стол\PeerGrade\PeerGrade\bin\Debug\PeerGrade.exe
+C:\Users\103so\OneDrive\Рабочий стол\PeerGrade\PeerGrade\bin\Debug\PeerGrade.pdb
+C:\Users\103so\OneDrive\Рабочий стол\PeerGrade\PeerGrade\obj\Debug\PeerGrade.csprojAssemblyReference.cache
+C:\Users\103so\OneDrive\Рабочий стол\PeerGrade\PeerGrade\obj\Debug\PeerGrade.csproj.CoreCompileInputs.cache
+C:\Users\103so\OneDrive\Рабочий стол\PeerGrade\PeerGrade\obj\Debug\PeerGrade.exe
+C:\Users\103so\OneDrive\Рабочий стол\PeerGrade\PeerGrade\obj\Debug\PeerGrade.pdb

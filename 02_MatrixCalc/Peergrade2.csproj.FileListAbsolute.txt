@@ -1,0 +1,16 @@
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.csproj.AssemblyReference.cache
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.AssemblyInfoInputs.cache
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.AssemblyInfo.cs
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.csproj.CoreCompileInputs.cache
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\bin\Debug\net5.0\Peergrade2.exe
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\bin\Debug\net5.0\Peergrade2.deps.json
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\bin\Debug\net5.0\Peergrade2.runtimeconfig.json
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\bin\Debug\net5.0\Peergrade2.runtimeconfig.dev.json
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\bin\Debug\net5.0\Peergrade2.dll
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\bin\Debug\net5.0\ref\Peergrade2.dll
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\bin\Debug\net5.0\Peergrade2.pdb
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.dll
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\ref\Peergrade2.dll
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.pdb
+C:\Users\103so\OneDrive\Рабочий стол\SecondPeergrade\Peergrade2\Peergrade2\obj\Debug\net5.0\Peergrade2.genruntimeconfig.cache
