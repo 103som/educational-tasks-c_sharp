@@ -1,0 +1,19 @@
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\Очередной пир.exe
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\Очередной пир.deps.json
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\Очередной пир.runtimeconfig.json
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\Очередной пир.runtimeconfig.dev.json
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\Очередной пир.dll
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\ref\Очередной пир.dll
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\Очередной пир.pdb
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\EKRLib.dll
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\bin\Debug\net5.0\EKRLib.pdb
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.csproj.AssemblyReference.cache
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.AssemblyInfoInputs.cache
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.AssemblyInfo.cs
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.csproj.CoreCompileInputs.cache
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.csproj.CopyComplete
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.dll
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\ref\Очередной пир.dll
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.pdb
+C:\Users\103so\source\repos\Очередной пир\Очередной пир\obj\Debug\net5.0\Очередной пир.genruntimeconfig.cache

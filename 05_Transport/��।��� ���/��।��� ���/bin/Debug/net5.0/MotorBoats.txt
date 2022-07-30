@@ -1,0 +1,6 @@
+MotorBoat. Model: PMEMH, Power 84
+MotorBoat. Model: ONYSO, Power 71
+MotorBoat. Model: AMRHO, Power 87
+MotorBoat. Model: VCVBF, Power 84
+MotorBoat. Model: WTZSF, Power 78
+MotorBoat. Model: JMQDW, Power 63
